@@ -21,8 +21,5 @@ This Projcet Used html5 and phonegap to do . also you can see PanoramaGL .
 ### How to build
 [Build](http://docs.phonegap.com/en/2.0.0/guide_cordova-webview_ios.md.html#Embedding%20Cordova%20WebView%20on%20iOS)
 
-
-PS: 为什么会有这个下怒
-
 Enjoy it ! 
 
