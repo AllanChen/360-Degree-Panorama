@@ -5,7 +5,7 @@
 项目以PhoneGAP 为基础，结合Html5 的技术来做成一个3D浏览的效果。
 
 ### 使用到的技术：
-[PhoneGAP](http://www.phonegap.com),  HTML5,pano2vr
+[PhoneGAP](http://www.phonegap.com),  HTML5,[pano2vr](http://www.pano2vr.com)
 
 This Projcet Used html5 and phonegap to do . also you can see PanoramaGL . 
 
