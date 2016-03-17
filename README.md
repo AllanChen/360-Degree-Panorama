@@ -15,6 +15,8 @@
 ### What is the Project
 This Projcet Used html5 and phonegap to do . also you can see PanoramaGL . 
 
+### Tool
+[PhoneGAP](http://www.phonegap.com),HTML5,[pano2vr](http://www.pano2vr.com)
 that is a Great lib for ios .
 
 Enjoy it ! 
