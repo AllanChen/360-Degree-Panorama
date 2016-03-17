@@ -7,6 +7,7 @@
 ### 使用到的技术：
 [PhoneGAP](http://www.phonegap.com),HTML5,[pano2vr](http://www.pano2vr.com)
 
+### 如何编译
 This Projcet Used html5 and phonegap to do . also you can see PanoramaGL . 
 
 that is a Great lib for ios .
